@@ -6,8 +6,12 @@ categories: jekyll update
 ---
  
 # The Gaussian Distribution
+
 ## Single Variable Case
+
+
 $$f(x)=\frac{1}{\sqrt{2\pi}\sigma}\exp\left(-\frac{(x-\mu)^2}{2\sigma^2}\right)$$
+
  
 \begin{align}
 \label{eq:pdf_gaussian}
